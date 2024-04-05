@@ -1,4 +1,4 @@
-PRACTICAS PROFESIONALES EN FOOD TALENT GROUP
+PRACTICAS PROFESIONALES EN FOO TALENT GROUP
 El contexto de las pruebas se centra en el desarrollo de un sitio web simple para la marca "Las Peonias". Este sitio web tendrá como objetivo principal ofrecer un catálogo de productos disponibles hasta el momento, 
 así como también proporcionar información de contacto para los usuarios interesados. El sitio web se desarrolla con la intención de satisfacer las necesidades de personas preocupadas por el consumo consciente, 
 que buscan productos confiables y de buena calidad, y que están comprometidas a reducir el uso de envases y minimizar la generación de contaminantes.Trabajé estrechamente con el equipo de desarrollo, diseñadores UX/UI y community manager
